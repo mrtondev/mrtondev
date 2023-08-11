@@ -14,7 +14,7 @@
 <img alt="C++" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
 <img alt="Python" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img alt="Kali" width="60" src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" />
-<a href="https://www.linkedin.com/in/ayrton-rafael-84075b22a/" target=_blank>
+<a href="https://www.linkedin.com/in/ayrton-rafael-84075b22a/" target="_blank">
   <img width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
 </a></div>
 
