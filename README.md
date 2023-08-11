@@ -2,4 +2,4 @@
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrtondev)](https://github.com/mrtondev/github-readme-stats)-->
 
-<!--[!Snake Animation](https://mrtondev/mrtondev/blob/output/github-contribuition-grid-snake.svg)
+[!Snake Animation](https://mrtondev/mrtondev/blob/output/github-contribuition-grid-snake.svg)
